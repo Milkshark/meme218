@@ -1,0 +1,188 @@
+;;Pos (0=Bas,1=Haut);;;;;
+1;Éthylo;0;Oula ça tangue;Je vais pas conduire;Clun'sss Chamber'sss à pied mon gars;;
+2;Extase;0;Huuummm;Haaaannnnn;Plaisiiiiirrrr;;
+3;Lardon;1;Je mange pas ça moi;*Bruit de cuisson*;Tout est bon dans le cochon;;
+4-23;Narine;1;Ça sent les embrouilles;*Snif*;*Snif Snif*;;
+5;Architecte;1;Belle bâtisse;C'est bien construit ça;Une bien belle poutre;;
+5P;Baguenaudera;1;On va s'amuser;Viens on fait rien;C'est rigolo de s'amuser;;
+6;Arnaqueuse;0;Wallah c'est fiable;Tkt frr;Ça marche vraiment !;Les spécialistes le détestent;6000 euros par minutes sans rien faire
+7;Cartable;1;L'affaire est dans le sac;C'est plié;J'ai pris mes crayons;J'ai un bel agenda;Tout préparé pour demain
+7-74P;Ravageur;0;*Pan*;Je vais tout casser !;Faut pas m'chercher;;
+8;Odile Deray;0;Je suis le pape et j'attend ma soeur;Prenez un chewing-gum Emile;Juste un doigt;;
+9;Turbin;0;Allez ça bosse;Le travail c'est la santé;Le charbon c'est utile;;
+10;Slave;0;cyka blyat;P'tite vodka ?;Ptit after?;Slav squat c'est la vie;
+11;Hors-la-loi;0;Donne moi ton or manant !;T'es coincé mon pote;Halte-là !;;
+12;Sérum;1;Bois ça, ça guerit tout;Même Raoult il l'a pas celui là;C'est du fait maison;;
+13;Avant-garde;1;Pour le Roy !;À l'assaut;Chargez et armez;;
+14;Ex-camarade;0;Je t'ai retrouvé sur Copains d'avant;Ça fait si longtemps;On s'était dit dans 10 ans;T'as pas changé;Qu'est-ce que tu deviens ?
+15;Épicurienne;1;Croque la vie à pleine dents;Du rhum des femmes;À boire et à manger;Carpe Diem;
+16;Tartine;1;*Croc*;Petit dej équilibré;Avec un verre de lait c'est parfait;;
+17-187;Black (blanc)° beur;0;On peut mourir tranquille;La France qu'on aime;Enfant du monde;Petite fille afghane;Petit portoricain
+18;Joggeur;0;J'ai mon attestation;P'tites foulées;C'est une vraie drogue;;
+19;Carambar;1;Ha ha Basmati tu l'as ?;C'est un jeu de mot;Le mec il s'appelle On;Mimie Mathy !;C'est marrant il s'appelle Fabrice
+20-192;Vends des lustres;0;135€ svp;Il éclaire bien celui-ci;From the chandelier;;
+21;Nique la BAC;0;J'en ai rien à foutre;Thug life !;Majeur en l'air;La douane les stups;
+22;Testicule;1;Viens !;La bourse ou la vie ?;Les coucouilles;;
+24;Quadri;0;Tâte le muscle;218kg à la presse;Bruuuu;Never skip leg day;
+25;Économe;1;Un sou est un sou;En bas du rayon c'est moins cher;J'ai des coupons de réduction;C'est déductible des impots ?;Vous prenez les chèques vacances ?
+26;Carrelage;1;Elle est pas belle cette mosaïque ?;C'est du marbre;Le joint est solide;;
+27-146;Mimez-ça;0;"""...""";"""........""";""".............""";"""...""";"""..."""
+28;Bricoleur;0;*Sourire du plombier*;Yes we can !;J'ai démonté la tuyauterie;;
+28P;Bijou;1;Mon médaillon touche à mon pénis;C'est du vrai faux or;*bling bling noises*;C'est de famille;Started from the bottom now we here
+29;Naseau;1;*Inspire*;*Expire*;*Snif snif*;;
+30;Analphabète;1;C'eSt dU fRenCé;jEt uN tiAiR tAnt;Disselequessie;;
+31;Israël;0;Oula;Un peu touchy;*Emote only*;Jérusa-quoi ?;
+32;Peinard;0;On est bien là;Posé tranquille;Apéro ?;;
+33;Croquette;1;100% Bio;*Miam miam*;Origine France;;
+34;Raccroche;0;Parle meilleur !;Tu dis plus rien là !;Ça va couper;;
+35;Trac;1;J'ose pas;Vous êtes sûr ?;Olala;Je le sens pas celui ci;Je me chie dessus
+36;Seyant;1;Moulant comme il faut;Ça met en valeur;C'est quoi la différence entre une moule et un pull-over ?;Le brin de pudeur qui va bien;
+37;Mascarade;0;Stop les conneries;Ça suffit !;Nous sachons;On nous ment;Moi j'suis aware
+38;Transitoire;0;Pas turbulent;Pas laminaire;PILE PILE PILE Au milieu;;
+39;Syncro;0;En même temps !;Tellement connectés;Hop là;;
+40;Boudeur;1;GneUh gNeuH GnEuH;Toujours pareil avec vous;J'en ai déjà marre;;
+41;Entrepose;1;On met ça là;Un vrai Tetris;Lean management tu coco;;
+42;Gastro;1;J'ai mal au ventre;Je me sens pas bien;Je veux que ça cesse;;
+43;Vieillard;0;Moi de mon temps;J'étais Zt;À mon époque;C'était mieux avant;Ça a changé
+44;Clash;1;Tu veux la bagarre ?;Le sang de tes morts;J'te défonce;;
+45;Grand-mère;0;JPP a pris sa retraite ?;Chirac est mort ?;Ils ont viré Julien Lepers ?;Comment ça les Allemands ont perdu ?;
+46;Historien;0;C'est vérifiable;C'est écrit dans les livres;En latin;;
+47;Litige;1;Je ne suis pas d'accord;C'est moi j'ai raison;Tu as tort;;
+48;Hypothèque;0;J'ai acheté à credit;J'ai plus un rond;Tu m'avances ?;;
+49-85;Balader;1;Ça c'est la vraie nature;*Bruit de forêt*;Oh regarde la buse!;Oh un rouge gorge;Là un écureuil!
+50;Nez rouge;1;P'tit canon ?;Tu remets la ptite soeur ?;J'suis garé où ?;Un dernier pour la route;
+51;Sympa;0;Merci mec !;T'es un frère;Un vrai poto;Super l'ami!;
+52;Bavière;0;*Yodel*;P'tite bière ?;Ja Pilsner gut;;
+53;Vous-même;0;Miroir miroir;C'est celui qui le dit qui l'est;Tu fais trop pitié;;
+54;Hormone;1;C'est qui l'alpha ?;Tate le bibi;Quentin le MUSCLE;Il aime le MUSCLE;
+55;Effaceur;0;C'est du passé;On dit qu'on oublie;Hop le BH;;
+56;Provoque;1;Tu vas faire quoi ?;Et là ça t'enerve ?;Si j'appuie là ça fait quoi ?;;Et là ça t'énerve?
+57;Blédard;0;J'ai mis du scotch;Tkt ça passe;Ça a l'air de tenir là;Je l'ai accroché avec une ficelle tkt;T'as du WD40?
+57F;Déçoit;0;C'est zéro ça;Vous avez rien compris;Maikanik ?;Où est mon stylo rouge ?;
+57-167P;Tue-mouche maximal;1;Paf les guêpes;Paf les mouches;Paf les fourmis;;
+58;Diams;0;Voilà de la boulette;Assied toi faut qu'j'te parle;Jeune demoiselle recherche un mec mortel;;
+59-91;Scrabble;1;Hop mot compte triple;Xylophone, 91 points;Je met GER devant MANIE, ça fait GERMANIE;;
+60;Porte Théière;1;La nappe reste propre;Un peu de sucre ?;Nuage de lait ?;;
+61;Képi;1;La loi et l'ordre;Le gendarme c'est le S;De Funes je kiffe;;
+62;Gymnaste;0;Hop saut carpé;Flexible sur la réception;Stable sur la poutre;La cheville souple;
+62-84P;Mobilise;0;En route mauvaise troupe;On a besoin de tout le monde;Go go go !;;
+63;C'est bizarre;1;Tiens ça marche pas;J'comprends pas;J'ai dû oublier une vis;Peut-être que si je tape mon mot de passe...;
+64;Enterre;0;*Pouet pouet*;*Tut tut tut tut*;*astronomia plays in the background*;*tut tut*;
+65;Mot-clé;1;Je note que l'essentiel;C'est ça qui compte;Faut pas tout surligner;;
+66;Requin-baleine;1;Miam miam le plancton;J'y gobe tout;Coquillages et crustacés;;
+67;Mi-désir;1;Dois-je rire ?;Dois-je pleurer?;Je suis mitigée;;
+68;Sorbonne;1;J'ai failli avoir Centrale;C'est pas ici Cluny ?;Non mais j'ai juste raté les oraux;J'aurais dû avoir bien mieux en vrai;
+69;Surfait;0;Trop prévisible;Le coup classique;C'était sûr en fait;Pas fou;Je m'attendais à mieux
+70;Carlin;0;*Ouaf*;Manger ?;J'ai pissé partout;;
+71;Tracasse;0;J'ai pas confiance;Ça m'inquiete;Je suis pas serein;;
+72;Bravo;0;Bien joué !;Félicitations !;Brillant !;;
+73;Nagui nie;0;C'est pas moi;J'ai pas oublié les paroles;Promis j'veux pas prendre sa place;;
+74;Strip-teaseur;0;*Bruit de saxophone*;Salut loulou;Les billets dans le slip;;
+75;Arrêtons;1;Ça va trop loin;On arrête là;Stop !;;
+76;Hérité;1;Jackpot mon pote;*Bruit de sous*;Eh mercé mémé;;
+77;T-max;0;En Y !;Le J c'est le S;Brrrrr brrrrr;;
+77P;Grouille;0;Allez en avant !;Plus vite !;Hop hop hop;;
+78;Caméléon;0;On me voit;On me voit plus;J'suis caché;You can't see me;
+79;Sbire;1;À vos ordres Chef;Tout ce que vous voulez;Travail terminé;J'avais rien de prévu ce week-end;
+80;Dilatateur;1;Petit bout par petit bout;Faut être ouvert d'esprit;Comme une lettre à la poste;*pop*;
+81;Bazarde ça;0;Ça dégage;Jettes-y;Ah ah bazardée;Poubelle !;
+82;Théorie;0;Peut-être que c'est Big pharma;Ou alors Bill Gates;QAnon;Les Illuminatis !;Foutus reptiliens
+83;Y'a les (hendecks)°;0;Bisous les michtos;Appelez les hendeck s'il vous plait;La France t'es solo en fait;;
+84;Dénichera;0;Un vrai trésor;La belle affaire;Sympa cette brocante;;
+86-186;Ah ça rime;1;T'es un poète toi;Madame de Pompadour;"Ya quoi qui va avec ""pédoncule"" ?";Demain dès l'aube, tu connais;
+87;Fleuri;0;C'est champêtre;P'tites tulipes;J'y met du terreau;Mate mon joli rhododendron;
+88;Tirons;1;Petite bière?;Pinte ou litre ?;8°8;;
+89;Proclama;0;Attention nouvelle règle;J'ai rajouté des ptits clous;Tout rouillés, avec le tetanos !;Et puis des ptites braises;Ça brûle les p'tites braises
+90-190;Arthrose;0;*Crac*;J'ai mal au dos;Je suis si vieux;;
+92;Oh t'as ris;0;C'est drôle ça;Oh si c'est rigolo;*Onk Onk*;;
+93-183;Brada;0;Je vous fait un prix d'ami;Celui-là je vous le donne;C'est la maison qui régale;Allez pour 5 balles c'est bon;
+94;Get laid;0;Ça baise un max;Viens ce soir dans ma demeure;Y'a pas que l'amour dans la vie;C'est du savon de Marseille;
+95;Vérole;1;Ça gratte;Y'a du pus;Plus jamais;;
+96;Tourtereau;0;Je vous laisse j'ai rdv;Je reviens dans 1h;Y'a la go qui appelle, je reviens;Ça va pas plaire à Mamour;
+97;Ductile;1;Je m'enfonce non ?;C'est tout mou;J'en ai plein les souliers;;
+98;Accessoire;1;J'ai des goûts très particuliers;Déguise toi en Shrek;J'ai acheté mon harnais sur Wish;;
+99;Papi;0;Pourquoi t'appelles pas ?;Tu as reçu les photos ?;Si tu me mets en EHPAD, je te déshérite;J'avais une orange et j'étais bien content;
+100;Branleur;0;Flemme;On peut attendre demain;Commencez sans moi j'vous rejoins;;
+101;Placard;0;J'sors du placard;Lapeyre y'en a pas deux;Pourtant je suis pas homosexuel;;
+102;Tricheur;0;J'ai encore un atout dans la manche;Full aux As par les As;J'ai posé le W discrètement;word.exe;
+102P;Limite;0;Je suis pas d'accord;Ça va trop loin;Tu pousses le bouchon un peu trop loin;;
+103-193;Titille le Russe;0;Alors la démocratie ?;On les entend plus trop vos opposants;Tu vas m'envoyer au goulag ?;;
+104;Soyeux;0;Regardez moi ce poil;C'est tout doux;C'est de l'entretien ça;;
+105;Populace;0;Gilé joné;Macron Démission;C la fot au capitalimse;;
+106;Parti;0;Bah j'quitte le plateau mon gars;Je reviens je vais chercher des clopes;Ciao les cassos;Salut les loosers;
+107-184;Optimum;1;Pas plus haut que le bord;Le ménisque est propre;Y a pas plus rentable;;
+108;Chatteux;0;La moule !;J'ai le ticket gagnant !;Le pot !;Ça c'est un sacré coup de bol;
+109;Solennel;0;Une minute de silence;Un peu de respect;Pour la patrie;Pour le pays;
+110;Pagaiera;0;Tu rames Lilian ?;C'est quand qu'on arrive ?;P'tite pause pastis ?;Il fait chaud là non ?;Qui a proposé aprem canoé ?
+111;Quasiment;0;À ça putain;C'est pas passé loin;Ça ira mieux la prochaine fois;;
+112;Briseur;0;C'est cassé sidi;Ça va moins bien marcher maintenant;Je tape plus fort pour que ça marche;;
+113-182;Si, là;1;Il est là-bas;Tu le vois pas ?;Essaie de l'appeler pour voir;Tu l'as vu ?;Mais si c'est Fabrice !
+114;Alibi;1;Wallah c'est pas moi;J'étais parti faire un TOUR;J'étais à une soirée raclette;;
+115;Vestiaire;1;Tu vas pas sortir comme ça;Ça cache rien là;Allez zou ! On se rhabille;Tu veux que le Seigneur te voie comme ça ?;Tenue d'Adam, tenue d'Adam...
+116;Artisan;0;Ça c'est le vrai travail;La sueur pour de l'argent c'est ce qui marche;C'est pas de l'industriel ça;On voit ce qu'on fait;C'est bien de chez nous
+117;Partagé;1;Tiens je t'en donne un peu;T'es la famille en même temps;Comme dans la pub;Ce qui est à moi est à toi;
+118;Jaune;0;Comme l'auto de la poste;Je l'aime tellement c'est mon petit péchééé;C'est bon c'est anisé;Dans 2 volumes d'eau je l'aime bien tassé;
+119;Fanfare;0;*pouet pouet*;Plus fort les trombones !;On entend pas assez le triangle;;
+120;Perd pas l'axe;0;Des heures de taf;C'est pas le moment de tout planter;Il est petit quand même;On retient sa respiration;
+121;Épinard;0;Petite ration mon pote;Je suis popeye mon gars;Les légumes bio ca fait du bien;C'est riche en fer ça;
+122;Deux mandales;0;Tu r'commences ?;Coup droit revers on m'appelle Djokovic;T'as de la chance qu'il y ait du monde;Tu vas voir quand on rentre;
+123;Lexomil;1;J'suis défoncé;Là on est calme;Je suis même plus anxieux;;
+124;Titra;0;Titre ! Lol les couilles;That's what she said !;Lol la bite;On rentre dans le domaine privé;
+125;Croqueur;0;Bah, fais kroker !;Juste un ptit bout;C'est le patron qui régale;;
+126;Tiens la barre;1;Tient bon le vent;Dès que le vent soufflera, je repartira;Tintintin;Santianoooooooo;Raymond Barre mdr
+127;Viré;0;C'est parce que j'ai baisé votre femme ?;Faites vos cartons;Dehors !;Tu prend tes clics ainsi que tes clacs;Et tu hors de ma vue
+128-185;Terre;1;C'est ma terre où je m'asseois;J'ai mis du compost;Moi je chie dans le jardin;;
+128-185F;Tuyau;0;Oh la bonne tuysse;Qu'est qu'on a fait des tuyaux?;Des lances et de la grande échelle;;
+129;Trek;0;On va se faire les mollets;C'est physique hein;J'ai pris des barres de céréales;Tout dans mon camel-back;
+130;Bon imper;1;Bien au sec;Alors les rageux on est trempés ?;La Bretagne ça vous gagne;Il protège bien hein?;C'est du décath
+131;Moqua;1;Haha cheh;T tro nul lol;Git gud;Bien fait pour toi !;
+132;Cute;0;Kawaiiiiiiiiiii;C'est meugnon;Trop mim'sss;;
+133;Animal;1;C'est pas un boa ça;*Buch*;Moi j'aime bien les animals;Les petits chats surtout;Les chouettes, et les zibous
+134;Mic-Mac;1;Il faut ranger tout ça;Range ta chambre avant de sortir;On s'y retrouve pas dans ce merdier;;
+135;Évacuons;1;On se casse d'ici;Ça craint faut partir;Ça devient dangereux de rester ici;;
+136;Jawad;0;On m'a dit de rendre service j'ai rendu service;Je savais pas que c'était des terroristes;Je savais pas moi;;
+137-191;Fredonne;0;*papadapapa*;*Hmmmm hmmm hm hmmmm*;Fredonner pendant un voyage X-trem ça fait du bien;;
+138;C'est la clause;1;C'était écrit aussi;Trop tard t'as signé;Fallait lire les ptites lignes;T'es obligé maintenant;
+139;Cueilla;1;Je cueille mes tomates moi;Salade du jardin;Dans le panier les pommes des Héspérides !;Elles sont pas belles mes noix ?;
+140;Pas sérieux;0;C'est pas bien ça;C'est pas du bon boulot;On a pas le temps de rien faire;On se concentre là;
+141;Gradin;1;On sera bien là;On voit toute l'action d'ici;Je veux rien louper;Tu as pris le pop corn ?;
+142-171;Paperasse;0;Le formulaire rose nécessaire pour le formulaire 12;Le laisser-passer A38;On est fermé là;Il est 14h;
+143;Comment tu te gares ?;0;T'es en diagonale !;Le p'tit créneau;Je crois pas que ça va rentrer;;
+144;Ultra court;0;Ça fait pas bien long;Ça me fait pas ça d'habitude;C'est la pression;;
+145;Maroilles;1;Goûtu !;C'est fort mais c'est bon;Une fois en bouche c'est doux tu vas voir;Un régal dans le café;
+147;Décortiqué;1;C'est bien fait quand même;C'est mieux sans la coquille;L'important c'est dedans;;
+148;Secos;0;Mange, t'es tout maigre;Faut prendre du muscle;On voit tes côtes;;
+149;Parachute à rats;1;Il en faut pour tout le monde;Nous aussi on a le droit d'aller dans l'espace;Je vole Jack;;
+150;Non mais dis donc;1;Je vous permet pas;Mon vélo;Mes souliers !;Ca fait 3 fois;
+151;Gouine;0;Une femme avec une femme;Elle est du même sexe que toi !;Bah alors, ça broute le gazon ?;;
+152;Ergonomique;0;C'est refléchi ça;C'est bien organisé;Pour un meilleur Takt time;Position optimale pour jouer à LOL;
+153;ZADiste;0;Oh la société moderne;C'est à cause du grand patronnat;Tu viens pour le chanvre ?;Jamais sans mon chien;
+154;Dose quali;0;Juste c'qu'y faut;Va pas le noyer;Normalement c'est 1/3 - 2/3;;
+155;Astroport;1;On part fort;La fusée est chargée;Paré au décollage;;
+156;Eau-de-vie;1;Et hop t'es aveugle;La mirabelle du pépé;Ça réveille les morts;Après ça c'est sieste;
+157;Écaillé;1;Oh le maquereau;Il est frais de ce matin;Pêché dans le vieux port;;
+158;Râteau;0;J'préfère qu'on reste amis;Tu croyais que c'était un date ?;J'te touche pas avec un bâton;Allez on se rappelle à l'occase;T'es comme une soeur pour moi
+159;Harponner;0;Oh la belle prise;Alors ça mord?;J'vais te goumer toi;;
+160;Tam-tam;1;Une peau bien tendue pour un beau bruit;Il tape sur des bambous;Ça tapote doucement;Et sur des minitels;
+161;Boucle d'or;1;Quelqu'un a dormi dans mon lit;Quelqu'un a mangé mon gateau;Quelqu'un a bu ma soupe;;
+162-189;Orteil;1;Random meuble goes bonk;Mate mes tongs;Tu aimes mon nouveau vernis?;;
+163;Octogone;1;2h18 devant la Zaronde;Tu r'commences ?;Jab;Low-kick;Le crochet est juteux
+164;Pas sur la liste;1;Vous restez dehors;C'est une soirée VIP;Y'a combien de filles avec vous ?;Qu'est ce que c'est que ces fringues ?;Vous avez une bouteille à l'intérieur ?
+165-195;Slackline;1;Équilibre;Ça tangue un peu quand même;On serre les fesses ça va passer;Je tente l'aller-retour;P'tit saut au milieu
+166;Bouboule;1;Mais je buvais !;Y'avait que 5 paquets de chips;Tu manges du papier Melissandre ?;;
+167;Macéré;0;C'est une liqueur de sapin maison;Ça fermente depuis 2003;Il y a de la prune je crois;J'y trouve un goût de bettrave;
+168;Obscurantisme;1;Sorcière !;La vérité c'est la Bible;Au bûcher !;La place de la femme c'est la KOUIZINE;
+169;Parachever;0;Et le cerise sur le gateau;Petite dorure oklm;J'aime le travail bien fait;Mon pire défaut ? Perfectionniste;
+170;Crevard;0;Mais c'est a moi ça;Il s'appelle revient;Vous serez payé en visibilité;;
+172;Supporter;0;Allez Auxerre !;Paris on t'encule !;C'est vous les champions;Aux chiottes l'OM !;
+173;Caviar;1;Succulent;Ça valait bien 218 balles;Ce p'tit gout salé;Un vrai délice;
+175;Calomnieux;0;Tu mens;Calomnies et billevesées;C'est honteux !;;
+174;Appareillons;0;Je me fais appareiller;D'un coup j'entend mieux;Audika c'est plus fort que toi !;Parle plus fort quand même;
+176;Morse;1;-- --- ·-· ··· ·';-··· ·· - ·';-- · ·-· -·-· ·· ·-·· ·- -·· -·· ·-·· ··-·';···· -- ·-·· · ··· - - --· - -;-·· ·- -··· · ·-·· ·-·· · ···- · ·-· - ·'
+177;Herman;0;Un grand brun !;Sympathique !;Il avait les plans du V2 !;C'est ça que tu appelles frapper fort ?;
+178;L'ami noir;0;Il est plus noir qu'un arabe;Non non mais je suis pas raciste;En plus j'adore le mafé;Ça zone à Barbes;
+179;Fesses à l'air;0;Tu l'as vu ?;Mon cul !;C'est la pleine lune;Comme Laffay;
+180;Fax;1;Tu l'as reçu ?;J'en ai eu pour 24 francs;2400 anciens francs tout de même;Je te l'envoie de suite;
+181;Marmiton;1;Un vrai cordon bleu;J'ai salé l'eau des pâtes;J'ai mis de la coriandre;C'est fameux !;Le doigt collant au sucre vanillé
+188;Détergent;0;Terminé les nuisibles;Adieu les mauvaises herbes;99,9% d'efficacité;;
+194;Grand gaillard;0;Bien bâti;Un beau bébé;T'as encore grandi ?;Il fait beau là haut ?;Tu fais du basket ?
